@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 FROM php:8.1-apache
 
 # Install system dependencies
